@@ -4,11 +4,11 @@
 * Vision UI Free React - v1.0.0
 =========================================================
 
-* Product Page: https://www.creative-tim.com/product/vision-ui-free-react
-* Copyright 2021 Creative Tim (https://www.creative-tim.com/)
-* Licensed under MIT (https://github.com/creativetimofficial/vision-ui-free-react/blob/master LICENSE.md)
+* Product Page: /product/vision-ui-free-react
+* Copyright 2021 Julian (/)
+* Licensed under MIT (https://github.com/julianSDev/vision-ui-free-react/blob/master LICENSE.md)
 
-* Design and Coded by Simmmple & Creative Tim
+* Design and Coded by Simmmple & Julian
 
 =========================================================
 
@@ -220,7 +220,7 @@ function Configurator() {
           <VuiBox mb={2}>
             <VuiButton
               component={Link}
-              href="https://www.creative-tim.com/product/vision-ui-dashboard-react"
+              href="/product/vision-ui-dashboard-react"
               target="_blank"
               rel="noreferrer"
               color="info"
@@ -232,7 +232,7 @@ function Configurator() {
           </VuiBox>
           <VuiButton
             component={Link}
-            href="https://www.creative-tim.com/learning-lab/react/quick-start/vision-ui-dashboard/"
+            href="/learning-lab/react/quick-start/vision-ui-dashboard/"
             target="_blank"
             rel="noreferrer"
             color="info"
@@ -244,7 +244,7 @@ function Configurator() {
         </VuiBox>
         <VuiBox display="flex" justifyContent="center">
           <GitHubButton
-            href="https://github.com/creativetimofficial/vision-ui-dashboard-react"
+            href="https://github.com/julianSDev/vision-ui-dashboard-react"
             data-icon="octicon-star"
             data-size="large"
             data-show-count="true"
@@ -264,7 +264,7 @@ function Configurator() {
             <VuiBox mr={1.5}>
               <VuiButton
                 component={Link}
-                href="https://twitter.com/intent/tweet?url=https://www.creative-tim.com/product/vision-ui-dashboard-react&text=Check%20Vision%20UI%20Dashboard%20made%20by%20@simmmple_web%20and%20@CreativeTim%20#webdesign%20#dashboard%20#react"
+                href="https://twitter.com/intent/tweet?url=/product/vision-ui-dashboard-react&text=Check%20Vision%20UI%20Dashboard%20made%20by%20@simmmple_web%20and%20@CreativeTim%20#webdesign%20#dashboard%20#react"
                 target="_blank"
                 rel="noreferrer"
                 color="dark"
@@ -275,7 +275,7 @@ function Configurator() {
             </VuiBox>
             <VuiButton
               component={Link}
-              href="https://www.facebook.com/sharer/sharer.php?u=https://www.creative-tim.com/product/vision-ui-dashboard-react"
+              href="https://www.facebook.com/sharer/sharer.php?u=/product/vision-ui-dashboard-react"
               target="_blank"
               rel="noreferrer"
               color="dark"

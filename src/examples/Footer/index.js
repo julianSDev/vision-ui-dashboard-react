@@ -4,11 +4,11 @@
 * Vision UI Free React - v1.0.0
 =========================================================
 
-* Product Page: https://www.creative-tim.com/product/vision-ui-free-react
-* Copyright 2021 Creative Tim (https://www.creative-tim.com/)
-* Licensed under MIT (https://github.com/creativetimofficial/vision-ui-free-react/blob/master LICENSE.md)
+* Product Page: /product/vision-ui-free-react
+* Copyright 2021 Julian (/)
+* Licensed under MIT (https://github.com/julianSDev/vision-ui-free-react/blob/master LICENSE.md)
 
-* Design and Coded by Simmmple & Creative Tim
+* Design and Coded by Simmmple & Julian
 
 =========================================================
 
@@ -54,11 +54,11 @@ function Footer() {
             mr="2px"
             component="a"
             variant="button"
-            href="https://www.creative-tim.com/"
+            href="/"
             sx={{ textAlign: "center", fontWeight: "500 !important" }}
             color="white"
           >
-            Creative Tim
+            Julian
           </VuiTypography>
           for a better web
         </VuiTypography>
@@ -68,7 +68,7 @@ function Footer() {
           <VuiBox mr={{ xs: "20px", lg: "46px" }}>
             <VuiTypography
               component="a"
-              href="https://www.creative-tim.com/templates"
+              href="/templates"
               variant="body2"
               color="white"
             >
@@ -78,7 +78,7 @@ function Footer() {
           <VuiBox mr={{ xs: "20px", lg: "46px" }}>
             <VuiTypography
               component="a"
-              href="https://www.creative-tim.com/blog/"
+              href="/blog/"
               variant="body2"
               color="white"
             >
@@ -88,7 +88,7 @@ function Footer() {
           <VuiBox>
             <VuiTypography
               component="a"
-              href="https://www.creative-tim.com/license"
+              href="/license"
               variant="body2"
               color="white"
             >

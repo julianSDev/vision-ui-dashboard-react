@@ -4,11 +4,11 @@
 * Vision UI Free React - v1.0.0
 =========================================================
 
-* Product Page: https://www.creative-tim.com/product/vision-ui-free-react
-* Copyright 2021 Creative Tim (https://www.creative-tim.com/)
-* Licensed under MIT (https://github.com/creativetimofficial/vision-ui-free-react/blob/master LICENSE.md)
+* Product Page: /product/vision-ui-free-react
+* Copyright 2021 Julian (/)
+* Licensed under MIT (https://github.com/julianSDev/vision-ui-free-react/blob/master LICENSE.md)
 
-* Design and Coded by Simmmple & Creative Tim
+* Design and Coded by Simmmple & Julian
 
 =========================================================
 
@@ -64,7 +64,7 @@ function SidenavCard({ color, ...rest }) {
           </VuiBox>
           <VuiButton
             component={Link}
-            href="https://www.creative-tim.com/learning-lab/react/quick-start/vision-ui-dashboard/"
+            href="/learning-lab/react/quick-start/vision-ui-dashboard/"
             target="_blank"
             rel="noreferrer"
             size="small"
